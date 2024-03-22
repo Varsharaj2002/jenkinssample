@@ -32,6 +32,7 @@ public class HotelAppLoginTest {
 		driver=new ChromeDriver();
 		driver.get("https://adactinhotelapp.com/");
 		driver.findElement(By.id("username")).sendKeys(string);
+		System.out.println("Jenking testing");
 		
 	}
 
