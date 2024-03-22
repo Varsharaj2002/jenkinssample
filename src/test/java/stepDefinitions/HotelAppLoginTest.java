@@ -16,7 +16,7 @@ import io.cucumber.java.en.When;
 
 public class HotelAppLoginTest {
 	WebDriver driver;
-	system.out.println("Jenking testing")
+	//system.out.println("Jenking testing")
 	
 //	ExtentReports extent;
 //
@@ -61,7 +61,7 @@ public class HotelAppLoginTest {
 //		
 //	    Assert.assertTrue(actual.equalsIgnoreCase(expected));
 
-		
+	//new comment	
 	}
 
 
