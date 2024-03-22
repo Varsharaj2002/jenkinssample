@@ -16,6 +16,7 @@ import io.cucumber.java.en.When;
 
 public class HotelAppLoginTest {
 	WebDriver driver;
+	system.out.println("Jenking testing")
 	
 //	ExtentReports extent;
 //
